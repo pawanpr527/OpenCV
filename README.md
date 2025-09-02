@@ -9,3 +9,5 @@
 7. Thresholding 
 8. Contours & Object Detection
 9. Real-time Video Capture & Writing
+
+**cover basic**
